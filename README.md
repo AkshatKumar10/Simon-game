@@ -12,7 +12,7 @@ This project is an implementation of the classic Simon game using HTML, CSS, and
 * JavaScript
 
 ### Demo:
-You can play the Simon Game here [Simon Game](http://127.0.0.1:5500/Simon%20Game%20Challenge%20Starting%20Files/index.html)
+You can play the Simon Game here [Simon Game](https://akshatkumar10.github.io/Simon-game/).
 
 
 ### Usage:
